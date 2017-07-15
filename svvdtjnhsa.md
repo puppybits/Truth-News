@@ -92,7 +92,7 @@ identity opinion and retroactively assess judgement.
 be shown to the readers. 
 2. Anyone can be an auditor. They can issue corrections, rate the 
 accuracy, add annotations, references and add hindsight about
-how practical a position actually worked out wi. This 
+how practical a position actually worked out with the . This 
 allows readers to not only see truthfulness but also those 
 who consistently put things like policy ideals over practicality, 
 reason and realistic expectations will receive hits to their 
