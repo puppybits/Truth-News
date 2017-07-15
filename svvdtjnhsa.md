@@ -12,7 +12,7 @@ use the blockchain to record facts, audit the truth and
 make sure it is unchangeable.
 
 
-### Building and maintaining the system
+## Building and maintaining the system
 
 This should be started by a company to create the blockchain software
 and associated scripts and apps to distribute them. Everything will be free. 
