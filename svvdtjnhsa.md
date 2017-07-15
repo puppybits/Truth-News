@@ -67,7 +67,7 @@ An author's reputation for a story is used to assist in authenticity.
 force news only to be recorded as it goes public. No retro active updates.
 7. The author will request a news organization to be the validator.
 Each news organization will be responsible for their own internal 
-process to validate each report is factual. A recommended place to start
+process to validate each report is factual. A recommended startplace to start
 is to have a handful of devices behind psychical barriers and for 
 it to be offline when not in use as well as no access to anything other
 than the blockchain. Only a few agents inside the news organization 
