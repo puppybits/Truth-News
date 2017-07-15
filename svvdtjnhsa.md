@@ -36,7 +36,7 @@ piece of content.
   
 # The how 
   
----  
+
 
 ## User Types
 
