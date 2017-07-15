@@ -82,7 +82,7 @@ to the original story.
 
 --- 
 
-# Auditing Process 
+## Auditing Process 
 
 Purpose: Content is useless without accuracy. Independent 
 researches must confirm the truth, corroborate information, 
