@@ -7,7 +7,7 @@ will be with the integrity of professionals journalist and
 the immutability of the facts. If we don't do this now the
 coming wave of outright lies will be impossible to stop
 
-Fake  macro problem can only be fixed by going micro. We can
+Fake news macro problem can only be fixed by going micro. We can
 use the blockchain to record facts, audit the truth and
 make sure it is unchangeable.
 
