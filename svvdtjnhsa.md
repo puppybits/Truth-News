@@ -104,7 +104,7 @@ addendums to the content will be it publicly shown to readers.
 4. Since the reader will be prolific and log which anonymous 
 reader views content they will be able to be notified when
 content is corrected or when trusted auditors verify content.
-5. Trusted auditors can rate 
+5. Trusted auditors can rate each other
 
 ---
 
