@@ -24,7 +24,7 @@ at no cost.
 
 1. The company will use an ICO to get initial funding.
 2. The company will work with respected journalists and news
-organizations to build each of the system.
+organizations to build each of peices  system.
 3. Revenue will be generated when reader opt-in to pay. Each
 role will be able to set their own cost when their content 
 is viewed. Readers will be able to set a max price for each
