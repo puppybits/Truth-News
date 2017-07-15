@@ -31,7 +31,8 @@ is viewed. Readers will be able to set a max price for each
 piece of content.
 
 --- 
-
+  
+  
 # The how 
   
 ---  
