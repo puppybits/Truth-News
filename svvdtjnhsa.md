@@ -195,7 +195,7 @@ on a reader's logged in device.
 
 ---
 
-# Platform applications
+## Platform applications
 
 1. Blockchain. Most likely to run on Ethereum do to widespread 
 adoption and the ability to run smart contracts. 
