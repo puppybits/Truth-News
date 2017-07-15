@@ -60,7 +60,7 @@ truthfulness.
 4. A hash is created for raw content. For a news article it must be 
 only the raw text of the story. This is to stop tampering and validate
 version and release dates of a story.
-5. The blockchain is added with details of the story including hasht, timestamp, permanent-url, author-id, person-in-the-content, requested-validator} is added to the blockchain.
+5. The blockchain is added with details of the story including thhash, timestamp, permanent-url, author-id, person-in-the-content, requested-validator} is added to the blockchain.
 Author's reputation is used to assist in authenticity.
 6. Only newly created news can be added to the blockchain. It will
 force news only to be recorded as it goes public. No retro active updates.
