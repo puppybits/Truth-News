@@ -34,7 +34,7 @@ piece of content.
 
 # The how
 
-### User Types
+## User Types
 
 1. creator - any content creator, cameraman, reporter or journalist
 2. validator - typically a news organization or other editors 
