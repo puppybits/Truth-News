@@ -58,7 +58,7 @@ truthfulness.
 2. Raw content is upload to news site.
 3. Content is posted publicly.
 4. A hash is created for raw content. For a news article it must be 
-5. only the raw text
+only the raw text
 of the story. This is to stop tampering.
 5. {hash, timestamp, permanent-url, author-id, person-in-the-content, requested-validator} is added to the blockchain.
 Author's reputation is used to assist in authenticity.
