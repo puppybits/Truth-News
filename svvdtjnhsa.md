@@ -122,7 +122,6 @@ can be auditors as well.
 by the trusted auditors. Their collective reputation will be
 displayed in all the reader's software.
 
-
 ---
 
 # Stolen Account Process 
