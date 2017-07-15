@@ -177,7 +177,7 @@ to the readers.
 
 ---
 
-# Payment Process 
+## Payment Process 
 
 Purpose: Have readers pay for content creators, validators and 
 auditors. 
