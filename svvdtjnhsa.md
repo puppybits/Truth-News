@@ -105,7 +105,7 @@ addendums to the content will be it publicly shown to readers.
 reader views content they will be able to be notified when
 content is corrected or when trusted auditors verify content.
 5. Trusted auditors can rate each other. Losing reputation for 
-honesty can downgraded to be a non-trusted auditor.
+honesty can downgrade to be a non-trusted auditor.
 
 ---
 
