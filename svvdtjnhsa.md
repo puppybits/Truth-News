@@ -14,7 +14,7 @@ make sure it is unchangeable.
 
 ### Building and maintaining the system
 
-This should be a company to create the blockchain software
+This should be  a company to create the blockchain software
 and associated scripts and apps. Everything will be free. 
 Readers can opt-in to cryptocurrency payments with the bulk 
 going content creators, auditors and a tiny fraction to 
