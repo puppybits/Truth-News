@@ -128,7 +128,7 @@ displayed in all the reader's software.
 
 ---
 
-# Stolen Account Process 
+## Stolen Account Process 
 
 Purpose: Content creators, validators and auditors will be
 hacked.
