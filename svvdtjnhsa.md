@@ -69,7 +69,7 @@ force news only to be recorded as it goes public. No retro active updates.
 Each news organization will be responsible for their own internal 
 process to validate each report is factual. A recommended starting point
 is to have a handful of devices behind psychical barriers (and offline when not
-in user) no access to anything other
+in use) no access to anything other
 than the blockchain. Only a few agents inside the news organization 
 can approve based on personal relationships. Anyone else who 
 validates a story will add their validation to the raw content as well.
