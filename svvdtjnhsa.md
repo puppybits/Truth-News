@@ -68,7 +68,7 @@ force news only to be recorded as it goes public. No retro active updates.
 7. The author will request a news organization to be the validator.
 Each news organization will be responsible for their own internal 
 process to validate each report is factual. A recommended starting point
-is to have a handful of devices behind psychical barriers (and offline) no access to anything other
+is to have a handful of devices behind psychical barriers (and offline when not) no access to anything other
 than the blockchain. Only a few agents inside the news organization 
 can approve based on personal relationships. Anyone else who 
 validates a story will add their validation to the raw content as well.
