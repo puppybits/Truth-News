@@ -5,7 +5,7 @@ about to explode. There will be zero chance of validating the
 truthfulness of ANY content with these tools. The only way to combat lies
 will be with the integrity of professionals journalist and
 the immutability of the facts. If we don't do this now the
-coming wave of outright lies will be impossible to stop.
+coming wave of outright lies will be impossible to stop
 
  macro problem can only be fixed by going micro. We can
 use the blockchain to record facts, audit the truth and
