@@ -6,7 +6,7 @@ truthfulness of _any_ content once these tools become practical.
 The only way to combat lies will be with the integrity of 
 professionals journalist and the immutability of the facts.
 If we don't do this now the coming wave of outright lies will 
-be impossible to stop in the 
+be impossible to stop in the future.
 
 Fake news is a macro problem that can only be fixed by going micro. We can
 use the blockchain to record facts, audit the truth and
