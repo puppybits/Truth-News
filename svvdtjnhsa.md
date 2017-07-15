@@ -63,7 +63,7 @@ version and release dates of a story.
 5. The blockchain is added with details of the story including the hash, 
 timestamp, permanent-url, author-id, person-in-the-content, requested-validator.
 An author's reputation for a story is used to assist in authenticity.
-6. Only newly created news can be added to the blockchain. This It will
+6. Only newly created news can be added to the blockchain. This will
 force news only to be recorded as it goes public. No retro active updates.
 7. The author will request a news organization to be the validator.
 Each news organization will be responsible for their own internal 
