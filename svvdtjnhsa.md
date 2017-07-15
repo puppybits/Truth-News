@@ -15,7 +15,7 @@ make sure it is unchangeable.
 ### Building and maintaining the system
 
 This should be started by a company to create the blockchain software
-and associated scripts and apps to dis. Everything will be free. 
+and associated scripts and apps to distr. Everything will be free. 
 Readers can opt-in to cryptocurrency payments with the bulk 
 going content creators, auditors and a tiny fraction to 
 the company that maintains the system. All companies can 
