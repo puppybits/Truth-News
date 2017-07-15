@@ -32,7 +32,7 @@ piece of content.
 
 --- 
 
-# The how
+# The how 
 
 ## User Types
 
