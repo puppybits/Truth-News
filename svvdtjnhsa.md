@@ -121,7 +121,7 @@ can be auditors as well.
 2. Persons of interest in a piece of content will be scored
 by the trusted auditors. Their collective reputation will be
 displayed in all the reader's software.
-3. 
+
 
 ---
 
