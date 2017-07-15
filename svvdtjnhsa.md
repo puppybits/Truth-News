@@ -44,7 +44,7 @@ auditor but trusted auditors will be limited. Only trusted
 auditors will viewable by readers.
 4. reader - any consumers of content. They will be anonymous.
 Readers can opt-in to pay for content through micro-transactions
-on the block
+on the blockchan
 
 ---
 
