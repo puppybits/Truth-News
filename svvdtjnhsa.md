@@ -232,4 +232,4 @@ will overlaid with the truthfulness and other trusted auditor's
 content. This will overlay on both text and video content. Since
 each device has a unique id if a future correct is made by
 the content owner this can send a notification or be displayed
-the next time the reader see __any__ content.
+the next time the reader see _any__ content.
