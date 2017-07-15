@@ -110,7 +110,7 @@ honesty can downgrade trusted auditors to be a non-trusted.
 ---
 
 
-# Reputation Process 
+## Reputation Process 
 
 Purpose: Content creators, validators, auditors and persons of 
 interest in the content __must__ all have skin in the game. 
