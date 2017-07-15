@@ -179,28 +179,6 @@ on a reader's logged in device.
 
 ---
 
----
-
-## Stolen Account Process 
-
-Purpose: Content creators, validators and auditors will be
-hacked.
-
-1. Each role will create their own id on the blockchain. It 
-will be tied to their device or could be hosted in cloud servers.
-2. When an entity creates this id they will need to mark who
-is their recovery contacts.
-3. When a device is stolen or hacked they owner will reach
-out to the recovery contacts to validate a new id. Recovery
-contacts can not be changed ever.
-4. New ids validated by 2/3 of the recovery contacts will
-give provisional status. The more recovery contacts added
-at creation the safer an account will be. 
-5. User's can retroactively append a rejection of their approval
-of content as long as 2/3 of the recovery accounts approve. This 
-should allow for the informal trust networks to recorrect when
-theft happens while stopping DDOS style of attacks.
-
 ## Platform applications
 
 1. Blockchain. Most likely to run on Ethereum do to widespread 
