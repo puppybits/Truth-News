@@ -42,7 +42,8 @@ to validate a journalist. These role will be limited.
 3. auditor - researchers to verify accuracy. Anyone can be an 
 auditor but trusted auditors will be limited. Only trusted 
 auditors will viewable by readers.
-4. reader - any consumers of content. They will be anonymous. 
+4. reader - any consumers of content. They will be anonymous.
+5. 
 
 ---
 
