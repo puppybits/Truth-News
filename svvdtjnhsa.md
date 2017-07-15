@@ -30,7 +30,7 @@ role will be able to set their own cost when their content
 is viewed. Readers will be able to set a max price for each
 piece of content.
 
----
+--- 
 
 # The how
 
