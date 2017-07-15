@@ -97,7 +97,7 @@ This allows readers to not only see truthfulness but also those
 who consistently put things like policy ideals over practicality, 
 reason and realistic expectations will receive hits to their 
 reputation. This should allow readers to see politicians or reporters
-who consistently lie, misrepresent or interject non-fact- opinions
+who consistently lie, misrepresent or interject non-fact-based opinions
 in their content.
 3. Only once a trusted auditor has approved or added their own 
 addendums to the content will be it publicly shown to readers.
